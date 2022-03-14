@@ -8,12 +8,13 @@ I had in the past the opportunity to gain multicultural work experience in HR an
  
 Recently I have started a career change towards Web Design and Development. As today, I am following a Web developer training at O'clock. 
 
-Hit me up if you’re interested to work together 😉
 
 
 ![-----------------------------------------------------](
 https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
+<br/>
 Stack:
+<br/>
 - HTML5, CSS3, SASS;
 - JavaScript, JQuery, GSAP, PHP;
 - VS Code, WordPress, Filezilla;
@@ -22,8 +23,24 @@ Stack:
 
 
 
+![-----------------------------------------------------](
+https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
+<br/>
+Hit me up if you’re interested to work together 😉
+<br/>
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/viktoriia-zaichuk-a303ba123//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/viktoriiazaichuk)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://vikazaichuk.com/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/behance.svg' alt='behance' height='40'>](https://www.behance.net/vikazaichuk)  
+<a href="https://www.linkedin.com/in/https://www.linkedin.com/in/viktoriia-zaichuk-a303ba123/">
+  <img align="left" alt="Linkdein" width="22px" src="https://cdn3.iconfinder.com/data/icons/inficons/512/linkedin.png" />
+</a>
+
+<a href="https://www.instagram.com/vik_zaichuk/">
+  <img align="left" alt="Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/600px-Instagram_icon.png" />
+</a>
+<!-- https://codepen.io/viktoriiazaichuk
+https://vikazaichuk.com/
+https://www.behance.net/vikazaichuk -->
+
+ 
 
 
 
