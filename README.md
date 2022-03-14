@@ -1,4 +1,7 @@
 ### Hi there, I'm Viktoriia <img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/>
+[![-----------------------------------------------------](
+https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)]
+
 
 
 I had in the past the opportunity to gain multicultural work experience in HR and customer relation fields.
