@@ -10,6 +10,9 @@ Recently I have started a career change towards Web Design and Development. As t
 
 Hit me up if you’re interested to work together 😉
 
+
+![-----------------------------------------------------](
+https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 Stack:
 - HTML5, CSS3, SASS;
 - JavaScript, JQuery, GSAP, PHP;
