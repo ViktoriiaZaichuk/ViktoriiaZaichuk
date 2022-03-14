@@ -43,12 +43,12 @@ Hit me up if you’re interested to work together 😉
 
 
 <a href="https://codepen.io/viktoriiazaichuk/">
-  <img align="left" alt="CodePen" width="22px" src="hhttps://img.icons8.com/external-tal-revivo-color-tal-revivo/24/000000/external-multi-platform-online-code-editor-and-open-source-learning-service-logo-color-tal-revivo.png" />
+  <img align="left" alt="CodePen" width="22px" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/000000/external-multi-platform-online-code-editor-and-open-source-learning-service-logo-color-tal-revivo.png" />
 </a>
 
 
 
- 
+ <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/000000/external-multi-platform-online-code-editor-and-open-source-learning-service-logo-color-tal-revivo.png"/>
 
 
 
