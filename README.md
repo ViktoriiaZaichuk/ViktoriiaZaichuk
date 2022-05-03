@@ -15,12 +15,15 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 <br/>
 Stack:
 <br/>
-- HTML5, CSS3, SASS;
-- JavaScript, JQuery, GSAP, PHP;
+- HTML5, CSS3, SASS, Bootstrap;
+- JavaScript, JQuery, GSAP, React;
+- PHP, Laravel;
 - VS Code, WordPress, Filezilla;
 - UX, UI, SEO;
-- XD, Illustrator, Photoshop, After Effects.
+- XD, Illustrator, Photoshop, After Effects, Figma.
 
+Learning:
+-  Python (Django).
 
 
 ![-----------------------------------------------------](
