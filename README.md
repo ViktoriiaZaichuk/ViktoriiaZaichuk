@@ -18,7 +18,7 @@ Stack:
 - HTML5, CSS3, SASS, Bootstrap;
 - JavaScript, JQuery, GSAP, React;
 - PHP, Laravel;
-- VS Code, WordPress, Filezilla;
+- VS Code, WordPress, Filezilla, Git, GitHub;
 - UX, UI, SEO;
 - XD, Illustrator, Photoshop, After Effects, Figma.
 
