@@ -51,7 +51,5 @@ Hit me up if you’re interested to work together 😉
 
 
 
- <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/000000/external-multi-platform-online-code-editor-and-open-source-learning-service-logo-color-tal-revivo.png"/>
-
 
 
