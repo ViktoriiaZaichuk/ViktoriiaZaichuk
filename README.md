@@ -1,32 +1,30 @@
 ### Hi there, I'm Viktoriia 
 
 
-I had in the past the opportunity to gain multicultural work experience in HR and customer relation fields.
- 
-Recently I have started a career change towards Web Design and Development. As today, I am following a Web developer training at O'clock. 
+Having had the opportunity to work in various multicultural settings abroad, including customer relations and human resources, I've embarked on an exciting career change into the realm of Web Design and Development.
 
+If the prospect of collaboration interests you, don't hesitate to reach out 😉 As a passionate Full Stack Developer with web design skills, I'm on the lookout for a full-time position in Toulouse or remote work. My aim is to channel my creativity and curiosity to expand my skill set, while remaining available to join a dynamic team.
 
 
 ![-----------------------------------------------------](
 https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
+<br/>
 <br/>
 Stack:
 <br/>
 - HTML5, CSS3, SASS, Bootstrap;
-- JavaScript, jQuery, GSAP, React;
+- JavaScript, React, Node.js, GSAP, JQuery;
 - PHP, Laravel;
-- VS Code, WordPress, Filezilla, Git, GitHub;
+- SQL, PostgreSQL.
+- Django,
+- VS Code, WordPress, Wix, Git, GitHub;
 - UX, UI, SEO;
 - XD, Illustrator, Photoshop, After Effects, Figma.
-
-Learning:
-- Python (Django),
-- MySQL, PostgreSQL.
-- Node.js.
-
+- Agile - Scrum - Slack - Trello.
 
 ![-----------------------------------------------------](
 https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
+<br/>
 <br/>
 Hit me up if you’re interested to work together 😉
 <br/>
