@@ -20,7 +20,7 @@ Stack:
 - VS Code, WordPress, Wix, Git, GitHub;
 - UX, UI, SEO;
 - XD, Illustrator, Photoshop, After Effects, Figma.
-- Agile - Scrum - Slack - Trello.
+- Agile, Scrum, Slack, Trello.
 
 ![-----------------------------------------------------](
 https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
