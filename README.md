@@ -15,11 +15,11 @@ Stack:
 - HTML5, CSS3, SASS, Bootstrap;
 - JavaScript, React, Node.js, GSAP, JQuery;
 - PHP, Laravel;
-- SQL, PostgreSQL.
-- Django,
+- SQL, PostgreSQL;
+- Django;
 - VS Code, WordPress, Wix, Git, GitHub;
 - UX, UI, SEO;
-- XD, Illustrator, Photoshop, After Effects, Figma.
+- XD, Illustrator, Photoshop, After Effects, Figma;
 - Agile, Scrum, Slack, Trello.
 
 ![-----------------------------------------------------](
