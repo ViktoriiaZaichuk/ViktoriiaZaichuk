@@ -1,32 +1,27 @@
-### Hi there, I'm Viktoriia 
+### Hi there, I'm Viktoriia 👋
 
 
-Having had the opportunity to work in various multicultural settings abroad, including customer relations and human resources, I've embarked on an exciting career change into the realm of Web Design and Development.
-
-If the prospect of collaboration interests you, don't hesitate to reach out 😉 As a passionate Full Stack Developer with web design skills, I'm on the lookout for a full-time position in Toulouse or remote work. My aim is to channel my creativity and curiosity to expand my skill set, while remaining available to join a dynamic team.
+With experience in multicultural environments and a background in customer relations and HR, I've transitioned into the world of Web Design and Development. As a passionate Full Stack Developer, I'm eager to collaborate and bring creativity to every project I undertake.
 
 
-![-----------------------------------------------------](
-https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
-<br/>
-<br/>
-Stack:
-<br/>
-- HTML5, CSS3, SASS, Bootstrap;
-- JavaScript, React, Node.js, GSAP, JQuery;
-- PHP, Laravel;
-- SQL, PostgreSQL;
-- Django;
-- VS Code, WordPress, Wix, Git, GitHub;
-- UX, UI, SEO;
-- XD, Illustrator, Photoshop, After Effects, Figma;
-- Agile, Scrum, Slack, Trello.
+I'm currently looking for a full-time role in Toulouse or a remote position, where I can further develop my skills in web design and UX/UI, and make a meaningful impact as part of a dynamic team.
 
 ![-----------------------------------------------------](
 https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 <br/>
+**Tech Stack:**
+- **Frontend:** HTML5, CSS3, SASS, Tailwind CSS, Bootstrap, JavaScript, React, GSAP
+- **Backend:** Node.js, PHP, Laravel, Django
+- **Databases:** SQL, PostgreSQL
+- **Tools & Platforms:** VS Code, WordPress, Wix, Git, GitHub
+- **Design:** UX/UI, SEO, Figma, XD, Illustrator, Photoshop
+- **Methodologies:** Agile, Scrum
+- **Collaboration:** Slack, Trello
+
+![-----------------------------------------------------](
+https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 <br/>
-Hit me up if you’re interested to work together 😉
+🌟 *Let’s create something amazing together! Feel free to reach out if you're interested in collaborating.* 😊
 <br/>
 
 <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/viktoriia-zaichuk-a303ba123/">
