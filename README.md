@@ -9,8 +9,9 @@ I'm currently looking for a full-time role in Toulouse or a remote position, whe
 ![-----------------------------------------------------](
 https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 <br/>
+<br/>
 **Tech Stack:**
-- **Frontend:** HTML5, CSS3, SASS, Tailwind CSS, Bootstrap, JavaScript, React, GSAP
+- **Frontend:** HTML5, CSS3, SASS, Tailwind CSS, Bootstrap, JavaScript, React, Vue, GSAP
 - **Backend:** Node.js, PHP, Laravel, Django
 - **Databases:** SQL, PostgreSQL
 - **Tools & Platforms:** VS Code, WordPress, Wix, Git, GitHub
